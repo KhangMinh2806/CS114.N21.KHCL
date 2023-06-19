@@ -1,0 +1,60 @@
+[
+  {
+    "is_sarcastic": 1,
+    "headline": "\"Thủ tướng\": Tìm lời giải để nhà ở xã hội 'có giá phải chăng'",
+    "article_link": "https://vnexpress.net/thu-tuong-tim-loi-giai-de-nha-o-xa-hoi-co-gia-phai-chang-4618568.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "Hai cựu bí thư tỉnh Thanh Hóa 'vi phạm đến mức phải xem xét kỷ luật'",
+    "article_link": "https://vnexpress.net/hai-cuu-bi-thu-tinh-thanh-hoa-vi-pham-den-muc-phai-xem-xet-ky-luat-4618033.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "Học văn không thể làm bác sĩ?",
+    "article_link": "https://vnexpress.net/hoc-van-khong-the-lam-bac-si-4609248.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "\"Thượng đế\" bị cắt điện",
+    "article_link": "https://vnexpress.net/thuong-de-bi-cat-dien-4608881.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "Bảo hiểm \"chỉ thấy đóng vào\"",
+    "article_link": "https://vnexpress.net/bao-hiem-chi-thay-dong-vao-4604655.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "\"Canh bạc' vài đại học",
+    "article_link": "https://vnexpress.net/canh-bac-vao-dai-hoc-4610658.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "Chờ hỏi cấp trên",
+    "article_link": "https://vnexpress.net/cho-hoi-cap-tren-4605092.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "Cái bẫy điện năng",
+    "article_link": "https://vnexpress.net/cai-bay-dien-nang-4617085.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "Du lịch \"ăn xổi\"",
+    "article_link": "https://vnexpress.net/du-lich-an-xoi-4603281.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "\"Miếng bánh\" của trường y",
+    "article_link": "https://vnexpress.net/mieng-banh-cua-truong-y-4610521.html"
+  },
+  {
+    "is_sarcastic": 1,
+    "headline": "\"Lạm phát\" điểm học bạ",
+    "article_link": "https://vnexpress.net/lam-phat-diem-hoc-ba-4604881.html"
+  },
+  {
+    "is_sarcastic": 0,
+    "headline": "\"Thủ phủ nhà trọ\" giờ ra}
+]
